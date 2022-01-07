@@ -1,0 +1,178 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+ /* Header Section Start */
+.flax-section{
+    display: flex;
+}
+.header-section{
+    width: 70%;
+    margin: 0 auto;
+}
+.left-side-header{
+    width: 50%;
+}
+.header-text-title-area{
+    border-left: 3px solid orange;
+    
+}
+.header-text-title-area h1{
+    font-size: 50px;
+    padding: 20px;
+}
+
+.right-side-header{
+width: 50%;
+
+margin-left:100px ;
+}
+.header-text-area p{
+    padding: 10px;
+    margin-right: 150px;
+}
+.btn-explore{
+    background-color: rgb(112, 218, 117);
+    border: none;
+    padding: 10px 30px 10px 30px;
+    color: white;
+    margin-left: 10px;
+    cursor: pointer;
+    border-radius: 5px;
+}
+.photo img{
+    width: 330px;
+    height: 400px;
+
+}
+
+
+ /* Mission Section Start */
+.mission-section{
+    width: 70%;
+    margin: 0 auto;
+}
+.mission-section h1{
+    text-align: center;
+    font-size: 50px;
+    padding: 20px;
+ 
+}
+.mission-title h1{
+    font-size: 50px;
+}
+.mission{
+    background-color: rgb(227, 230, 59);
+    padding: 30px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    margin-left: 5px;
+    margin-right: 20px;
+    border-radius: 18px;
+}
+
+.vission{
+    background-color: rgb(104, 238, 51);
+    padding: 20px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    margin-left: 5px;
+    margin-right: 5pxpx;
+    border-radius: 18px;
+}
+.goals{
+    background-color: rgb(109, 143, 236);
+    padding: 20px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    margin-left: 20px;
+    margin-right: 10px;
+    border-radius: 18px;
+}
+
+.mission-logo img{
+    height: auto;
+    width: 100px;
+
+}
+
+
+
+
+.develop-section{
+    width: 70%;
+    border: 2px aqua orchid;
+    margin:0 auto ;
+}
+.develop{
+    width: 100%;
+    margin-top: 50px;
+    
+}
+.develop-left{
+    width: 50%;
+}
+
+.develop-left img{
+    height: 400px;
+    width: 400px;
+}
+.develop-right {
+    width: 50%;
+    margin-left: 120px;
+}
+.develop-right h1{
+font-size: 30px;
+}
+.develop-area button{
+    background-color: orchid;
+    border: none;
+    padding: 10px 30px 10px 30px;
+    color: white;
+    cursor: pointer;
+    border-radius: 5px;
+}
+
+
+
+
+.global-left {
+    width: 50%;
+    margin: 0;
+}
+.global-right img{
+    height: 400px;
+    width: 400px;
+    margin-left: 250px;
+}
+.global-area h1{
+   font-size: 30px;
+}
+.global-area button{
+    background-color: orchid;
+    border: none;
+    padding: 10px 30px 10px 30px;
+    color: white;
+    cursor: pointer;
+    border-radius: 5px;
+}
+
+
+footer{
+    width: 100%;
+    background-color: black;
+    height: 100px;
+}
+footer h1{
+    color: white;
+    text-align: center;
+}
+footer p{
+    color: white;
+    text-align: center;
+}
+.folow-tex-area p{
+    width: 80%;
+    margin-left: 10px;
+
+}
